@@ -1,5 +1,6 @@
 For this project consider accelerometer data for all the 15
 subjects for walking, running, climbing up and climbing down
+Dataset link : https://sensor.informatik.uni-mannheim.de/#dataset_realworld
 Task 1
 1. Apply natural visibility graph (NVG) and horizontal visibility graph (HVG) to the
 aforementioned data
